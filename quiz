@@ -253,7 +253,7 @@
       "QUIZ_MUSIC_Q209_ANSWER2",
       "QUIZ_MUSIC_Q209_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_GEOGRAPHY_Q305_QUESTION": {
     "answers": [
@@ -293,7 +293,7 @@
       "QUIZ_ART_Q456_ANSWER2",
       "QUIZ_ART_Q456_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_ART_Q893_QUESTION": {
     "answers": [
@@ -325,7 +325,7 @@
       "QUIZ_MUSIC_Q975_ANSWER2",
       "QUIZ_MUSIC_Q975_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_VISIONARIES_Q1013_QUESTION": {
     "answers": [
@@ -349,7 +349,7 @@
       "QUIZ_MOVIES_TV_Q679_ANSWER2",
       "QUIZ_MOVIES_TV_Q679_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_STORIES_Q811_QUESTION": {
     "answers": [
@@ -445,7 +445,7 @@
       "QUIZ_STEM_Q367_ANSWER2",
       "QUIZ_STEM_Q367_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_STORIES_Q69_QUESTION": {
     "answers": [
@@ -549,7 +549,7 @@
       "QUIZ_STEM_Q796_ANSWER2",
       "QUIZ_STEM_Q796_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_MUSIC_Q726_QUESTION": {
     "answers": [
@@ -621,7 +621,7 @@
       "QUIZ_GEOGRAPHY_Q148_ANSWER2",
       "QUIZ_GEOGRAPHY_Q148_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_FASHION_Q478_QUESTION": {
     "answers": [
@@ -637,7 +637,7 @@
       "QUIZ_ANIMALS_Q421_ANSWER2",
       "QUIZ_ANIMALS_Q421_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_MOVIES_TV_Q161_QUESTION": {
     "answers": [
@@ -725,7 +725,7 @@
       "QUIZ_GEEK_Q574_ANSWER2",
       "QUIZ_GEEK_Q574_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_SPORT_Q363_QUESTION": {
     "answers": [
@@ -797,7 +797,7 @@
       "QUIZ_MOVIES_TV_Q674_ANSWER2",
       "QUIZ_MOVIES_TV_Q674_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_NATURE_CLIMATE_Q746_QUESTION": {
     "answers": [
@@ -813,7 +813,7 @@
       "QUIZ_STEM_Q348_ANSWER2",
       "QUIZ_STEM_Q348_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_MOVIES_TV_Q666_QUESTION": {
     "answers": [
@@ -1021,7 +1021,7 @@
       "QUIZ_ANIMALS_Q420_ANSWER2",
       "QUIZ_ANIMALS_Q420_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_MUSIC_Q954_QUESTION": {
     "answers": [
@@ -1221,7 +1221,7 @@
       "QUIZ_GEEK_Q89_ANSWER2",
       "QUIZ_GEEK_Q89_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_GEEK_Q553_QUESTION": {
     "answers": [
@@ -1365,7 +1365,7 @@
       "QUIZ_GEOGRAPHY_Q590_ANSWER2",
       "QUIZ_GEOGRAPHY_Q590_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_GEEK_Q121_QUESTION": {
     "answers": [
@@ -1413,7 +1413,7 @@
       "QUIZ_GEOGRAPHY_Q609_ANSWER2",
       "QUIZ_GEOGRAPHY_Q609_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_MOVIES_TV_Q665_QUESTION": {
     "answers": [
@@ -1461,7 +1461,7 @@
       "QUIZ_STORIES_Q55_ANSWER2",
       "QUIZ_STORIES_Q55_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_GEEK_Q102_QUESTION": {
     "answers": [
@@ -1485,7 +1485,7 @@
       "QUIZ_GEEK_Q540_ANSWER2",
       "QUIZ_GEEK_Q540_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_MUSIC_Q974_QUESTION": {
     "answers": [
@@ -1589,7 +1589,7 @@
       "QUIZ_GEEK_Q915_ANSWER2",
       "QUIZ_GEEK_Q915_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_MOVIESTARPLANET_Q696_QUESTION": {
     "answers": [
@@ -1829,7 +1829,7 @@
       "QUIZ_GEEK_Q115_ANSWER2",
       "QUIZ_GEEK_Q115_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_ART_Q887_QUESTION": {
     "answers": [
@@ -1861,7 +1861,7 @@
       "QUIZ_GEOGRAPHY_Q599_ANSWER2",
       "QUIZ_GEOGRAPHY_Q599_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_NATURE_CLIMATE_Q737_QUESTION": {
     "answers": [
@@ -1917,7 +1917,7 @@
       "QUIZ_STORIES_Q21_ANSWER2",
       "QUIZ_STORIES_Q21_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_GEEK_Q912_QUESTION": {
     "answers": [
@@ -2037,7 +2037,7 @@
       "QUIZ_MOVIESTARPLANET_Q704_ANSWER2",
       "QUIZ_MOVIESTARPLANET_Q704_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_ART_Q889_QUESTION": {
     "answers": [
@@ -2253,7 +2253,7 @@
       "QUIZ_ANIMALS_Q242_ANSWER2",
       "QUIZ_ANIMALS_Q242_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_STORIES_Q25_QUESTION": {
     "answers": [
@@ -2293,7 +2293,7 @@
       "QUIZ_ART_Q453_ANSWER2",
       "QUIZ_ART_Q453_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_MUSIC_Q952_QUESTION": {
     "answers": [
@@ -2317,7 +2317,7 @@
       "QUIZ_STORIES_Q850_ANSWER2",
       "QUIZ_STORIES_Q850_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_HEALTH_Q625_QUESTION": {
     "answers": [
@@ -2397,7 +2397,7 @@
       "QUIZ_GEEK_Q565_ANSWER2",
       "QUIZ_GEEK_Q565_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_GEEK_Q133_QUESTION": {
     "answers": [
@@ -2445,7 +2445,7 @@
       "QUIZ_SPORT_Q224_ANSWER2",
       "QUIZ_SPORT_Q224_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_ANIMALS_Q5_QUESTION": {
     "answers": [
@@ -2597,7 +2597,7 @@
       "QUIZ_GEOGRAPHY_Q621_ANSWER2",
       "QUIZ_GEOGRAPHY_Q621_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_MOVIES_TV_Q658_QUESTION": {
     "answers": [
@@ -2733,7 +2733,7 @@
       "QUIZ_MOVIES_TV_Q187_ANSWER2",
       "QUIZ_MOVIES_TV_Q187_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_VISIONARIES_Q1019_QUESTION": {
     "answers": [
@@ -2773,7 +2773,7 @@
       "QUIZ_STORIES_Q58_ANSWER2",
       "QUIZ_STORIES_Q58_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_GEOGRAPHY_Q586_QUESTION": {
     "answers": [
@@ -2805,7 +2805,7 @@
       "QUIZ_STEM_Q780_ANSWER2",
       "QUIZ_STEM_Q780_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_STORIES_Q999_QUESTION": {
     "answers": [
@@ -2981,7 +2981,7 @@
       "QUIZ_ANIMALS_Q391_ANSWER2",
       "QUIZ_ANIMALS_Q391_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_MUSIC_Q333_QUESTION": {
     "answers": [
@@ -3117,7 +3117,7 @@
       "QUIZ_GEOGRAPHY_Q266_ANSWER2",
       "QUIZ_GEOGRAPHY_Q266_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_ANIMALS_Q400_QUESTION": {
     "answers": [
@@ -3237,7 +3237,7 @@
       "QUIZ_GEOGRAPHY_Q270_ANSWER2",
       "QUIZ_GEOGRAPHY_Q270_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_GEOGRAPHY_Q306_QUESTION": {
     "answers": [
@@ -3269,7 +3269,7 @@
       "QUIZ_STEM_Q809_ANSWER2",
       "QUIZ_STEM_Q809_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_ANIMALS_Q876_QUESTION": {
     "answers": [
@@ -3293,7 +3293,7 @@
       "QUIZ_STEM_Q227_ANSWER2",
       "QUIZ_STEM_Q227_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_STEM_Q372_QUESTION": {
     "answers": [
@@ -3349,7 +3349,7 @@
       "QUIZ_ANIMALS_Q397_ANSWER2",
       "QUIZ_ANIMALS_Q397_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_VISIONARIES_Q874_QUESTION": {
     "answers": [
@@ -3413,7 +3413,7 @@
       "QUIZ_ANIMALS_Q246_ANSWER2",
       "QUIZ_ANIMALS_Q246_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_STEM_Q804_QUESTION": {
     "answers": [
@@ -3469,7 +3469,7 @@
       "QUIZ_STORIES_Q824_ANSWER2",
       "QUIZ_STORIES_Q824_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_STEM_Q789_QUESTION": {
     "answers": [
@@ -3493,7 +3493,7 @@
       "QUIZ_HISTORICAL_Q152_ANSWER2",
       "QUIZ_HISTORICAL_Q152_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_ART_Q894_QUESTION": {
     "answers": [
@@ -3613,7 +3613,7 @@
       "QUIZ_MUSIC_Q203_ANSWER2",
       "QUIZ_MUSIC_Q203_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_MOVIES_TV_Q941_QUESTION": {
     "answers": [
@@ -3637,7 +3637,7 @@
       "QUIZ_VISIONARIES_Q236_ANSWER2",
       "QUIZ_VISIONARIES_Q236_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_GEOGRAPHY_Q917_QUESTION": {
     "answers": [
@@ -3797,7 +3797,7 @@
       "QUIZ_GEEK_Q556_ANSWER2",
       "QUIZ_GEEK_Q556_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_NATURE_CLIMATE__Q255_QUESTION": {
     "answers": [
@@ -3869,7 +3869,7 @@
       "QUIZ_NATURE_CLIMATE_Q753_ANSWER2",
       "QUIZ_NATURE_CLIMATE_Q753_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_GEOGRAPHY_Q308_QUESTION": {
     "answers": [
@@ -3877,7 +3877,7 @@
       "QUIZ_GEOGRAPHY_Q308_ANSWER2",
       "QUIZ_GEOGRAPHY_Q308_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_GEEK_Q259_QUESTION": {
     "answers": [
@@ -3885,7 +3885,7 @@
       "QUIZ_GEEK_Q259_ANSWER2",
       "QUIZ_GEEK_Q259_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_NATURE_CLIMATE_Q335_QUESTION": {
     "answers": [
@@ -4117,7 +4117,7 @@
       "QUIZ_MUSIC_Q710_ANSWER2",
       "QUIZ_MUSIC_Q710_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_MOVIES_TV_Q689_QUESTION": {
     "answers": [
@@ -4141,7 +4141,7 @@
       "QUIZ_GEOGRAPHY_Q295_ANSWER2",
       "QUIZ_GEOGRAPHY_Q295_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_STEM_Q351_QUESTION": {
     "answers": [
@@ -4149,7 +4149,7 @@
       "QUIZ_STEM_Q351_ANSWER2",
       "QUIZ_STEM_Q351_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_VISIONARIES_Q1004_QUESTION": {
     "answers": [
@@ -4285,7 +4285,7 @@
       "QUIZ_GEOGRAPHY_Q285_ANSWER2",
       "QUIZ_GEOGRAPHY_Q285_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_SPORT_Q984_QUESTION": {
     "answers": [
@@ -4301,7 +4301,7 @@
       "QUIZ_STORIES_Q849_ANSWER2",
       "QUIZ_STORIES_Q849_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_FUNFACTS_Q906_QUESTION": {
     "answers": [
@@ -4397,7 +4397,7 @@
       "QUIZ_ANIMALS_Q414_ANSWER2",
       "QUIZ_ANIMALS_Q414_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_PEOPLE_Q763_QUESTION": {
     "answers": [
@@ -4413,7 +4413,7 @@
       "QUIZ_STORIES_Q829_ANSWER2",
       "QUIZ_STORIES_Q829_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_ART_Q437_QUESTION": {
     "answers": [
@@ -4621,7 +4621,7 @@
       "QUIZ_GEOGRAPHY_Q616_ANSWER2",
       "QUIZ_GEOGRAPHY_Q616_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_STORIES_Q40_QUESTION": {
     "answers": [
@@ -4637,7 +4637,7 @@
       "QUIZ_GEEK_Q548_ANSWER2",
       "QUIZ_GEEK_Q548_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_SPORT_Q362_QUESTION": {
     "answers": [
@@ -4645,7 +4645,7 @@
       "QUIZ_SPORT_Q362_ANSWER2",
       "QUIZ_SPORT_Q362_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_MOVIESTARPLANET_Q945_QUESTION": {
     "answers": [
@@ -4653,7 +4653,7 @@
       "QUIZ_MOVIESTARPLANET_Q945_ANSWER2",
       "QUIZ_MOVIESTARPLANET_Q945_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_VISIONARIES_Q873_QUESTION": {
     "answers": [
@@ -4661,7 +4661,7 @@
       "QUIZ_VISIONARIES_Q873_ANSWER2",
       "QUIZ_VISIONARIES_Q873_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_MUSIC_Q713_QUESTION": {
     "answers": [
@@ -4669,7 +4669,7 @@
       "QUIZ_MUSIC_Q713_ANSWER2",
       "QUIZ_MUSIC_Q713_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_NATURE_CLIMATE__Q251_QUESTION": {
     "answers": [
@@ -4685,7 +4685,7 @@
       "QUIZ_MUSIC_Q962_ANSWER2",
       "QUIZ_MUSIC_Q962_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_ANIMALS_Q418_QUESTION": {
     "answers": [
@@ -4693,7 +4693,7 @@
       "QUIZ_ANIMALS_Q418_ANSWER2",
       "QUIZ_ANIMALS_Q418_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_MOVIES_TV_Q185_QUESTION": {
     "answers": [
@@ -4709,7 +4709,7 @@
       "QUIZ_MOVIESTARPLANET_Q702_ANSWER2",
       "QUIZ_MOVIESTARPLANET_Q702_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_FUNFACTS_Q526_QUESTION": {
     "answers": [
@@ -4717,7 +4717,7 @@
       "QUIZ_FUNFACTS_Q526_ANSWER2",
       "QUIZ_FUNFACTS_Q526_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_ART_Q18_QUESTION": {
     "answers": [
@@ -4725,7 +4725,7 @@
       "QUIZ_ART_Q18_ANSWER2",
       "QUIZ_ART_Q18_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_GEEK_Q114_QUESTION": {
     "answers": [
@@ -4733,7 +4733,7 @@
       "QUIZ_GEEK_Q114_ANSWER2",
       "QUIZ_GEEK_Q114_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_GEOGRAPHY_Q595_QUESTION": {
     "answers": [
@@ -4757,7 +4757,7 @@
       "QUIZ_FOOD_Q487_ANSWER2",
       "QUIZ_FOOD_Q487_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_GEEK_Q125_QUESTION": {
     "answers": [
@@ -4765,7 +4765,7 @@
       "QUIZ_GEEK_Q125_ANSWER2",
       "QUIZ_GEEK_Q125_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_MOVIES_TV_Q676_QUESTION": {
     "answers": [
@@ -4773,7 +4773,7 @@
       "QUIZ_MOVIES_TV_Q676_ANSWER2",
       "QUIZ_MOVIES_TV_Q676_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_MUSIC_Q958_QUESTION": {
     "answers": [
@@ -4789,7 +4789,7 @@
       "QUIZ_STORIES_Q831_ANSWER2",
       "QUIZ_STORIES_Q831_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_STORIES_Q837_QUESTION": {
     "answers": [
@@ -4797,7 +4797,7 @@
       "QUIZ_STORIES_Q837_ANSWER2",
       "QUIZ_STORIES_Q837_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_GEEK_Q547_QUESTION": {
     "answers": [
@@ -4805,7 +4805,7 @@
       "QUIZ_GEEK_Q547_ANSWER2",
       "QUIZ_GEEK_Q547_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_GEEK_Q86_QUESTION": {
     "answers": [
@@ -4813,7 +4813,7 @@
       "QUIZ_GEEK_Q86_ANSWER2",
       "QUIZ_GEEK_Q86_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_FOOD_Q498_QUESTION": {
     "answers": [
@@ -4821,7 +4821,7 @@
       "QUIZ_FOOD_Q498_ANSWER2",
       "QUIZ_FOOD_Q498_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_MUSIC_Q972_QUESTION": {
     "answers": [
@@ -4829,7 +4829,7 @@
       "QUIZ_MUSIC_Q972_ANSWER2",
       "QUIZ_MUSIC_Q972_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_FUNFACTS_Q512_QUESTION": {
     "answers": [
@@ -4837,7 +4837,7 @@
       "QUIZ_FUNFACTS_Q512_ANSWER2",
       "QUIZ_FUNFACTS_Q512_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_ART_Q444_QUESTION": {
     "answers": [
@@ -4853,7 +4853,7 @@
       "QUIZ_MOVIES_TV_Q184_ANSWER2",
       "QUIZ_MOVIES_TV_Q184_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_ANIMALS_Q409_QUESTION": {
     "answers": [
@@ -4861,7 +4861,7 @@
       "QUIZ_ANIMALS_Q409_ANSWER2",
       "QUIZ_ANIMALS_Q409_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_ART_Q883_QUESTION": {
     "answers": [
@@ -4869,7 +4869,7 @@
       "QUIZ_ART_Q883_ANSWER2",
       "QUIZ_ART_Q883_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_MOVIES_TV_Q193_QUESTION": {
     "answers": [
@@ -4877,7 +4877,7 @@
       "QUIZ_MOVIES_TV_Q193_ANSWER2",
       "QUIZ_MOVIES_TV_Q193_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_ART_Q882_QUESTION": {
     "answers": [
@@ -4885,7 +4885,7 @@
       "QUIZ_ART_Q882_ANSWER2",
       "QUIZ_ART_Q882_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_GEEK_Q131_QUESTION": {
     "answers": [
@@ -4893,7 +4893,7 @@
       "QUIZ_GEEK_Q131_ANSWER2",
       "QUIZ_GEEK_Q131_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_MUSIC_Q727_QUESTION": {
     "answers": [
@@ -4901,7 +4901,7 @@
       "QUIZ_MUSIC_Q727_ANSWER2",
       "QUIZ_MUSIC_Q727_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_STEM_Q803_QUESTION": {
     "answers": [
@@ -4917,7 +4917,7 @@
       "QUIZ_SPORT_Q986_ANSWER2",
       "QUIZ_SPORT_Q986_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_MOVIES_TV_Q936_QUESTION": {
     "answers": [
@@ -4925,7 +4925,7 @@
       "QUIZ_MOVIES_TV_Q936_ANSWER2",
       "QUIZ_MOVIES_TV_Q936_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_SPORT_Q775_QUESTION": {
     "answers": [
@@ -4949,7 +4949,7 @@
       "QUIZ_MOVIESTARPLANET_Q700_ANSWER2",
       "QUIZ_MOVIESTARPLANET_Q700_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_GEEK_Q909_QUESTION": {
     "answers": [
@@ -4957,7 +4957,7 @@
       "QUIZ_GEEK_Q909_ANSWER2",
       "QUIZ_GEEK_Q909_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_STEM_Q791_QUESTION": {
     "answers": [
@@ -4965,7 +4965,7 @@
       "QUIZ_STEM_Q791_ANSWER2",
       "QUIZ_STEM_Q791_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_HISTORICAL_Q310_QUESTION": {
     "answers": [
@@ -4973,7 +4973,7 @@
       "QUIZ_HISTORICAL_Q310_ANSWER2",
       "QUIZ_HISTORICAL_Q310_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_STEM_Q807_QUESTION": {
     "answers": [
@@ -4981,7 +4981,7 @@
       "QUIZ_STEM_Q807_ANSWER2",
       "QUIZ_STEM_Q807_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_HEALTH_Q630_QUESTION": {
     "answers": [
@@ -4989,7 +4989,7 @@
       "QUIZ_HEALTH_Q630_ANSWER2",
       "QUIZ_HEALTH_Q630_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_STORIES_Q825_QUESTION": {
     "answers": [
@@ -4997,7 +4997,7 @@
       "QUIZ_STORIES_Q825_ANSWER2",
       "QUIZ_STORIES_Q825_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_STORIES_Q52_QUESTION": {
     "answers": [
@@ -5005,7 +5005,7 @@
       "QUIZ_STORIES_Q52_ANSWER2",
       "QUIZ_STORIES_Q52_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_GEEK_Q104_QUESTION": {
     "answers": [
@@ -5021,7 +5021,7 @@
       "QUIZ_GEEK_Q109_ANSWER2",
       "QUIZ_GEEK_Q109_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_MOVIESTARPLANET_Q944_QUESTION": {
     "answers": [
@@ -5029,7 +5029,7 @@
       "QUIZ_MOVIESTARPLANET_Q944_ANSWER2",
       "QUIZ_MOVIESTARPLANET_Q944_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_STORIES_Q827_QUESTION": {
     "answers": [
@@ -5037,7 +5037,7 @@
       "QUIZ_STORIES_Q827_ANSWER2",
       "QUIZ_STORIES_Q827_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_STORIES_Q19_QUESTION": {
     "answers": [
@@ -5045,7 +5045,7 @@
       "QUIZ_STORIES_Q19_ANSWER2",
       "QUIZ_STORIES_Q19_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_MOVIES_TV_Q168_QUESTION": {
     "answers": [
@@ -5069,7 +5069,7 @@
       "QUIZ_STEM_Q229_ANSWER2",
       "QUIZ_STEM_Q229_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_STEM_Q799_QUESTION": {
     "answers": [
@@ -5077,7 +5077,7 @@
       "QUIZ_STEM_Q799_ANSWER2",
       "QUIZ_STEM_Q799_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_GEOGRAPHY_Q610_QUESTION": {
     "answers": [
@@ -5085,7 +5085,7 @@
       "QUIZ_GEOGRAPHY_Q610_ANSWER2",
       "QUIZ_GEOGRAPHY_Q610_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_SPORT_Q223_QUESTION": {
     "answers": [
@@ -5093,7 +5093,7 @@
       "QUIZ_SPORT_Q223_ANSWER2",
       "QUIZ_SPORT_Q223_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_GEOGRAPHY_Q591_QUESTION": {
     "answers": [
@@ -5117,7 +5117,7 @@
       "QUIZ_SPORT_Q213_ANSWER2",
       "QUIZ_SPORT_Q213_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_SPORT_Q360_QUESTION": {
     "answers": [
@@ -5125,7 +5125,7 @@
       "QUIZ_SPORT_Q360_ANSWER2",
       "QUIZ_SPORT_Q360_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_GEOGRAPHY_Q286_QUESTION": {
     "answers": [
@@ -5133,7 +5133,7 @@
       "QUIZ_GEOGRAPHY_Q286_ANSWER2",
       "QUIZ_GEOGRAPHY_Q286_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_MOVIESTARPLANET_Q695_QUESTION": {
     "answers": [
@@ -5149,7 +5149,7 @@
       "QUIZ_ANIMALS_Q422_ANSWER2",
       "QUIZ_ANIMALS_Q422_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 2
   },
   "QUIZ_STORIES_Q814_QUESTION": {
     "answers": [
@@ -5157,7 +5157,7 @@
       "QUIZ_STORIES_Q814_ANSWER2",
       "QUIZ_STORIES_Q814_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_ART_Q886_QUESTION": {
     "answers": [
@@ -5165,7 +5165,7 @@
       "QUIZ_ART_Q886_ANSWER2",
       "QUIZ_ART_Q886_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 1
   },
   "QUIZ_ANIMALS_Q401_QUESTION": {
     "answers": [
@@ -5173,7 +5173,7 @@
       "QUIZ_ANIMALS_Q401_ANSWER2",
       "QUIZ_ANIMALS_Q401_ANSWER3"
     ],
-    "correctAnswer": null
+    "correctAnswer": 3
   },
   "QUIZ_HEALTH_Q638_QUESTION": {
     "answers": [
@@ -5326,5 +5326,2173 @@
       "QUIZ_MOVIES_TV_Q672_ANSWER3"
     ],
     "correctAnswer": 1
+  },
+  "QUIZ_SPORT_Q982_QUESTION": {
+    "answers": [
+      "QUIZ_SPORT_Q982_ANSWER1",
+      "QUIZ_SPORT_Q982_ANSWER2",
+      "QUIZ_SPORT_Q982_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MOVIES_TV_Q922_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q922_ANSWER1",
+      "QUIZ_MOVIES_TV_Q922_ANSWER2",
+      "QUIZ_MOVIES_TV_Q922_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_VISIONARIES_Q1011_QUESTION": {
+    "answers": [
+      "QUIZ_VISIONARIES_Q1011_ANSWER1",
+      "QUIZ_VISIONARIES_Q1011_ANSWER2",
+      "QUIZ_VISIONARIES_Q1011_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEOGRAPHY_Q585_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q585_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q585_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q585_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_FUNFACTS_Q514_QUESTION": {
+    "answers": [
+      "QUIZ_FUNFACTS_Q514_ANSWER1",
+      "QUIZ_FUNFACTS_Q514_ANSWER2",
+      "QUIZ_FUNFACTS_Q514_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEOGRAPHY_Q603_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q603_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q603_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q603_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_HISTORICAL_Q646_QUESTION": {
+    "answers": [
+      "QUIZ_HISTORICAL_Q646_ANSWER1",
+      "QUIZ_HISTORICAL_Q646_ANSWER2",
+      "QUIZ_HISTORICAL_Q646_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_FUNFACTS_Q342_QUESTION": {
+    "answers": [
+      "QUIZ_FUNFACTS_Q342_ANSWER1",
+      "QUIZ_FUNFACTS_Q342_ANSWER2",
+      "QUIZ_FUNFACTS_Q342_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_VISIONARIES_Q388_QUESTION": {
+    "answers": [
+      "QUIZ_VISIONARIES_Q388_ANSWER1",
+      "QUIZ_VISIONARIES_Q388_ANSWER2",
+      "QUIZ_VISIONARIES_Q388_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_FASHION_Q469_QUESTION": {
+    "answers": [
+      "QUIZ_FASHION_Q469_ANSWER1",
+      "QUIZ_FASHION_Q469_ANSWER2",
+      "QUIZ_FASHION_Q469_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_FOOD_Q494_QUESTION": {
+    "answers": [
+      "QUIZ_FOOD_Q494_ANSWER1",
+      "QUIZ_FOOD_Q494_ANSWER2",
+      "QUIZ_FOOD_Q494_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q77_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q77_ANSWER1",
+      "QUIZ_GEEK_Q77_ANSWER2",
+      "QUIZ_GEEK_Q77_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_STEM_Q226_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q226_ANSWER1",
+      "QUIZ_STEM_Q226_ANSWER2",
+      "QUIZ_STEM_Q226_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_FUNFACTS_Q518_QUESTION": {
+    "answers": [
+      "QUIZ_FUNFACTS_Q518_ANSWER1",
+      "QUIZ_FUNFACTS_Q518_ANSWER2",
+      "QUIZ_FUNFACTS_Q518_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ANIMALS_Q6_QUESTION": {
+    "answers": [
+      "QUIZ_ANIMALS_Q6_ANSWER1",
+      "QUIZ_ANIMALS_Q6_ANSWER2",
+      "QUIZ_ANIMALS_Q6_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_ANIMALS_Q419_QUESTION": {
+    "answers": [
+      "QUIZ_ANIMALS_Q419_ANSWER1",
+      "QUIZ_ANIMALS_Q419_ANSWER2",
+      "QUIZ_ANIMALS_Q419_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEOGRAPHY_Q623_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q623_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q623_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q623_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MUSIC_Q960_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q960_ANSWER1",
+      "QUIZ_MUSIC_Q960_ANSWER2",
+      "QUIZ_MUSIC_Q960_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q88_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q88_ANSWER1",
+      "QUIZ_GEEK_Q88_ANSWER2",
+      "QUIZ_GEEK_Q88_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEEK_Q105_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q105_ANSWER1",
+      "QUIZ_GEEK_Q105_ANSWER2",
+      "QUIZ_GEEK_Q105_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_MUSIC_Q712_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q712_ANSWER1",
+      "QUIZ_MUSIC_Q712_ANSWER2",
+      "QUIZ_MUSIC_Q712_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_STORIES_Q63_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q63_ANSWER1",
+      "QUIZ_STORIES_Q63_ANSWER2",
+      "QUIZ_STORIES_Q63_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_ART_Q458_QUESTION": {
+    "answers": [
+      "QUIZ_ART_Q458_ANSWER1",
+      "QUIZ_ART_Q458_ANSWER2",
+      "QUIZ_ART_Q458_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_MOVIES_TV_Q663_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q663_ANSWER1",
+      "QUIZ_MOVIES_TV_Q663_ANSWER2",
+      "QUIZ_MOVIES_TV_Q663_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ART_Q466_QUESTION": {
+    "answers": [
+      "QUIZ_ART_Q466_ANSWER1",
+      "QUIZ_ART_Q466_ANSWER2",
+      "QUIZ_ART_Q466_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STEM_Q801_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q801_ANSWER1",
+      "QUIZ_STEM_Q801_ANSWER2",
+      "QUIZ_STEM_Q801_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_FOOD_Q502_QUESTION": {
+    "answers": [
+      "QUIZ_FOOD_Q502_ANSWER1",
+      "QUIZ_FOOD_Q502_ANSWER2",
+      "QUIZ_FOOD_Q502_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_FUNFACTS_Q528_QUESTION": {
+    "answers": [
+      "QUIZ_FUNFACTS_Q528_ANSWER1",
+      "QUIZ_FUNFACTS_Q528_ANSWER2",
+      "QUIZ_FUNFACTS_Q528_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_VISIONARIES_Q386_QUESTION": {
+    "answers": [
+      "QUIZ_VISIONARIES_Q386_ANSWER1",
+      "QUIZ_VISIONARIES_Q386_ANSWER2",
+      "QUIZ_VISIONARIES_Q386_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_STORIES_Q840_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q840_ANSWER1",
+      "QUIZ_STORIES_Q840_ANSWER2",
+      "QUIZ_STORIES_Q840_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q539_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q539_ANSWER1",
+      "QUIZ_GEEK_Q539_ANSWER2",
+      "QUIZ_GEEK_Q539_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ART_Q435_QUESTION": {
+    "answers": [
+      "QUIZ_ART_Q435_ANSWER1",
+      "QUIZ_ART_Q435_ANSWER2",
+      "QUIZ_ART_Q435_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_GEOGRAPHY_Q291_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q291_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q291_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q291_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q312_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q312_ANSWER1",
+      "QUIZ_MOVIES_TV_Q312_ANSWER2",
+      "QUIZ_MOVIES_TV_Q312_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q263_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q263_ANSWER1",
+      "QUIZ_GEEK_Q263_ANSWER2",
+      "QUIZ_GEEK_Q263_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_GEEK_Q135_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q135_ANSWER1",
+      "QUIZ_GEEK_Q135_ANSWER2",
+      "QUIZ_GEEK_Q135_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q932_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q932_ANSWER1",
+      "QUIZ_MOVIES_TV_Q932_ANSWER2",
+      "QUIZ_MOVIES_TV_Q932_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q260_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q260_ANSWER1",
+      "QUIZ_GEEK_Q260_ANSWER2",
+      "QUIZ_GEEK_Q260_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MUSIC_Q719_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q719_ANSWER1",
+      "QUIZ_MUSIC_Q719_ANSWER2",
+      "QUIZ_MUSIC_Q719_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q577_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q577_ANSWER1",
+      "QUIZ_GEEK_Q577_ANSWER2",
+      "QUIZ_GEEK_Q577_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STEM_Q225_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q225_ANSWER1",
+      "QUIZ_STEM_Q225_ANSWER2",
+      "QUIZ_STEM_Q225_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_FASHION_Q470_QUESTION": {
+    "answers": [
+      "QUIZ_FASHION_Q470_ANSWER1",
+      "QUIZ_FASHION_Q470_ANSWER2",
+      "QUIZ_FASHION_Q470_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q320_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q320_ANSWER1",
+      "QUIZ_MOVIES_TV_Q320_ANSWER2",
+      "QUIZ_MOVIES_TV_Q320_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEOGRAPHY_Q916_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q916_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q916_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q916_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MUSIC_Q717_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q717_ANSWER1",
+      "QUIZ_MUSIC_Q717_ANSWER2",
+      "QUIZ_MUSIC_Q717_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ART_Q454_QUESTION": {
+    "answers": [
+      "QUIZ_ART_Q454_ANSWER1",
+      "QUIZ_ART_Q454_ANSWER2",
+      "QUIZ_ART_Q454_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MUSIC_Q722_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q722_ANSWER1",
+      "QUIZ_MUSIC_Q722_ANSWER2",
+      "QUIZ_MUSIC_Q722_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STEM_Q794_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q794_ANSWER1",
+      "QUIZ_STEM_Q794_ANSWER2",
+      "QUIZ_STEM_Q794_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q107_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q107_ANSWER1",
+      "QUIZ_GEEK_Q107_ANSWER2",
+      "QUIZ_GEEK_Q107_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_TOYS_Q1001_QUESTION": {
+    "answers": [
+      "QUIZ_TOYS_Q1001_ANSWER1",
+      "QUIZ_TOYS_Q1001_ANSWER2",
+      "QUIZ_TOYS_Q1001_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_HEALTH_Q641_QUESTION": {
+    "answers": [
+      "QUIZ_HEALTH_Q641_ANSWER1",
+      "QUIZ_HEALTH_Q641_ANSWER2",
+      "QUIZ_HEALTH_Q641_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_VISIONARIES_Q1007_QUESTION": {
+    "answers": [
+      "QUIZ_VISIONARIES_Q1007_ANSWER1",
+      "QUIZ_VISIONARIES_Q1007_ANSWER2",
+      "QUIZ_VISIONARIES_Q1007_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q926_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q926_ANSWER1",
+      "QUIZ_MOVIES_TV_Q926_ANSWER2",
+      "QUIZ_MOVIES_TV_Q926_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q549_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q549_ANSWER1",
+      "QUIZ_GEEK_Q549_ANSWER2",
+      "QUIZ_GEEK_Q549_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q85_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q85_ANSWER1",
+      "QUIZ_GEEK_Q85_ANSWER2",
+      "QUIZ_GEEK_Q85_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MOVIES_TV_Q930_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q930_ANSWER1",
+      "QUIZ_MOVIES_TV_Q930_ANSWER2",
+      "QUIZ_MOVIES_TV_Q930_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_NATURE_CLIMATE_Q747_QUESTION": {
+    "answers": [
+      "QUIZ_NATURE_CLIMATE_Q747_ANSWER1",
+      "QUIZ_NATURE_CLIMATE_Q747_ANSWER2",
+      "QUIZ_NATURE_CLIMATE_Q747_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_SPORT_Q358_QUESTION": {
+    "answers": [
+      "QUIZ_SPORT_Q358_ANSWER1",
+      "QUIZ_SPORT_Q358_ANSWER2",
+      "QUIZ_SPORT_Q358_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_HISTORICAL_Q309_QUESTION": {
+    "answers": [
+      "QUIZ_HISTORICAL_Q309_ANSWER1",
+      "QUIZ_HISTORICAL_Q309_ANSWER2",
+      "QUIZ_HISTORICAL_Q309_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_ANIMALS_Q9_QUESTION": {
+    "answers": [
+      "QUIZ_ANIMALS_Q9_ANSWER1",
+      "QUIZ_ANIMALS_Q9_ANSWER2",
+      "QUIZ_ANIMALS_Q9_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEEK_Q575_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q575_ANSWER1",
+      "QUIZ_GEEK_Q575_ANSWER2",
+      "QUIZ_GEEK_Q575_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIESTARPLANET_Q699_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIESTARPLANET_Q699_ANSWER1",
+      "QUIZ_MOVIESTARPLANET_Q699_ANSWER2",
+      "QUIZ_MOVIESTARPLANET_Q699_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STEM_Q782_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q782_ANSWER1",
+      "QUIZ_STEM_Q782_ANSWER2",
+      "QUIZ_STEM_Q782_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_SPORT_Q987_QUESTION": {
+    "answers": [
+      "QUIZ_SPORT_Q987_ANSWER1",
+      "QUIZ_SPORT_Q987_ANSWER2",
+      "QUIZ_SPORT_Q987_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q657_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q657_ANSWER1",
+      "QUIZ_MOVIES_TV_Q657_ANSWER2",
+      "QUIZ_MOVIES_TV_Q657_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_HEALTH_Q639_QUESTION": {
+    "answers": [
+      "QUIZ_HEALTH_Q639_ANSWER1",
+      "QUIZ_HEALTH_Q639_ANSWER2",
+      "QUIZ_HEALTH_Q639_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q664_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q664_ANSWER1",
+      "QUIZ_MOVIES_TV_Q664_ANSWER2",
+      "QUIZ_MOVIES_TV_Q664_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q181_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q181_ANSWER1",
+      "QUIZ_MOVIES_TV_Q181_ANSWER2",
+      "QUIZ_MOVIES_TV_Q181_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_MOVIES_TV_Q661_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q661_ANSWER1",
+      "QUIZ_MOVIES_TV_Q661_ANSWER2",
+      "QUIZ_MOVIES_TV_Q661_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_GEOGRAPHY_Q620_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q620_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q620_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q620_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ART_Q884_QUESTION": {
+    "answers": [
+      "QUIZ_ART_Q884_ANSWER1",
+      "QUIZ_ART_Q884_ANSWER2",
+      "QUIZ_ART_Q884_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STORIES_Q56_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q56_ANSWER1",
+      "QUIZ_STORIES_Q56_ANSWER2",
+      "QUIZ_STORIES_Q56_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q683_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q683_ANSWER1",
+      "QUIZ_MOVIES_TV_Q683_ANSWER2",
+      "QUIZ_MOVIES_TV_Q683_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_VISIONARIES_Q867_QUESTION": {
+    "answers": [
+      "QUIZ_VISIONARIES_Q867_ANSWER1",
+      "QUIZ_VISIONARIES_Q867_ANSWER2",
+      "QUIZ_VISIONARIES_Q867_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q76_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q76_ANSWER1",
+      "QUIZ_GEEK_Q76_ANSWER2",
+      "QUIZ_GEEK_Q76_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q559_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q559_ANSWER1",
+      "QUIZ_GEEK_Q559_ANSWER2",
+      "QUIZ_GEEK_Q559_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ANIMALS_Q411_QUESTION": {
+    "answers": [
+      "QUIZ_ANIMALS_Q411_ANSWER1",
+      "QUIZ_ANIMALS_Q411_ANSWER2",
+      "QUIZ_ANIMALS_Q411_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_HISTORICAL_Q154_QUESTION": {
+    "answers": [
+      "QUIZ_HISTORICAL_Q154_ANSWER1",
+      "QUIZ_HISTORICAL_Q154_ANSWER2",
+      "QUIZ_HISTORICAL_Q154_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_FASHION_Q900_QUESTION": {
+    "answers": [
+      "QUIZ_FASHION_Q900_ANSWER1",
+      "QUIZ_FASHION_Q900_ANSWER2",
+      "QUIZ_FASHION_Q900_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q684_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q684_ANSWER1",
+      "QUIZ_MOVIES_TV_Q684_ANSWER2",
+      "QUIZ_MOVIES_TV_Q684_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MOVIES_TV_Q937_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q937_ANSWER1",
+      "QUIZ_MOVIES_TV_Q937_ANSWER2",
+      "QUIZ_MOVIES_TV_Q937_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q136_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q136_ANSWER1",
+      "QUIZ_GEEK_Q136_ANSWER2",
+      "QUIZ_GEEK_Q136_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MOVIES_TV_Q653_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q653_ANSWER1",
+      "QUIZ_MOVIES_TV_Q653_ANSWER2",
+      "QUIZ_MOVIES_TV_Q653_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEOGRAPHY_Q601_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q601_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q601_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q601_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MOVIES_TV_Q314_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q314_ANSWER1",
+      "QUIZ_MOVIES_TV_Q314_ANSWER2",
+      "QUIZ_MOVIES_TV_Q314_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MOVIES_TV_Q687_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q687_ANSWER1",
+      "QUIZ_MOVIES_TV_Q687_ANSWER2",
+      "QUIZ_MOVIES_TV_Q687_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STORIES_Q813_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q813_ANSWER1",
+      "QUIZ_STORIES_Q813_ANSWER2",
+      "QUIZ_STORIES_Q813_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_PEOPLE_Q759_QUESTION": {
+    "answers": [
+      "QUIZ_PEOPLE_Q759_ANSWER1",
+      "QUIZ_PEOPLE_Q759_ANSWER2",
+      "QUIZ_PEOPLE_Q759_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ANIMALS_Q875_QUESTION": {
+    "answers": [
+      "QUIZ_ANIMALS_Q875_ANSWER1",
+      "QUIZ_ANIMALS_Q875_ANSWER2",
+      "QUIZ_ANIMALS_Q875_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEEK_Q91_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q91_ANSWER1",
+      "QUIZ_GEEK_Q91_ANSWER2",
+      "QUIZ_GEEK_Q91_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ART_Q436_QUESTION": {
+    "answers": [
+      "QUIZ_ART_Q436_ANSWER1",
+      "QUIZ_ART_Q436_ANSWER2",
+      "QUIZ_ART_Q436_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEEK_Q116_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q116_ANSWER1",
+      "QUIZ_GEEK_Q116_ANSWER2",
+      "QUIZ_GEEK_Q116_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ANIMALS_Q10_QUESTION": {
+    "answers": [
+      "QUIZ_ANIMALS_Q10_ANSWER1",
+      "QUIZ_ANIMALS_Q10_ANSWER2",
+      "QUIZ_ANIMALS_Q10_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STEM_Q792_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q792_ANSWER1",
+      "QUIZ_STEM_Q792_ANSWER2",
+      "QUIZ_STEM_Q792_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q160_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q160_ANSWER1",
+      "QUIZ_MOVIES_TV_Q160_ANSWER2",
+      "QUIZ_MOVIES_TV_Q160_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEOGRAPHY_Q275_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q275_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q275_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q275_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q180_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q180_ANSWER1",
+      "QUIZ_MOVIES_TV_Q180_ANSWER2",
+      "QUIZ_MOVIES_TV_Q180_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_GEEK_Q542_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q542_ANSWER1",
+      "QUIZ_GEEK_Q542_ANSWER2",
+      "QUIZ_GEEK_Q542_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_STORIES_Q31_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q31_ANSWER1",
+      "QUIZ_STORIES_Q31_ANSWER2",
+      "QUIZ_STORIES_Q31_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_ANIMALS_Q12_QUESTION": {
+    "answers": [
+      "QUIZ_ANIMALS_Q12_ANSWER1",
+      "QUIZ_ANIMALS_Q12_ANSWER2",
+      "QUIZ_ANIMALS_Q12_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEOGRAPHY_Q611_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q611_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q611_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q611_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_GEEK_Q566_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q566_ANSWER1",
+      "QUIZ_GEEK_Q566_ANSWER2",
+      "QUIZ_GEEK_Q566_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ANIMALS_Q412_QUESTION": {
+    "answers": [
+      "QUIZ_ANIMALS_Q412_ANSWER1",
+      "QUIZ_ANIMALS_Q412_ANSWER2",
+      "QUIZ_ANIMALS_Q412_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q545_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q545_ANSWER1",
+      "QUIZ_GEEK_Q545_ANSWER2",
+      "QUIZ_GEEK_Q545_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q671_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q671_ANSWER1",
+      "QUIZ_MOVIES_TV_Q671_ANSWER2",
+      "QUIZ_MOVIES_TV_Q671_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIESTARPLANET_Q942_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIESTARPLANET_Q942_ANSWER1",
+      "QUIZ_MOVIESTARPLANET_Q942_ANSWER2",
+      "QUIZ_MOVIESTARPLANET_Q942_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_GEOGRAPHY_Q304_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q304_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q304_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q304_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_FUNFACTS_Q907_QUESTION": {
+    "answers": [
+      "QUIZ_FUNFACTS_Q907_ANSWER1",
+      "QUIZ_FUNFACTS_Q907_ANSWER2",
+      "QUIZ_FUNFACTS_Q907_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q186_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q186_ANSWER1",
+      "QUIZ_MOVIES_TV_Q186_ANSWER2",
+      "QUIZ_MOVIES_TV_Q186_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MOVIES_TV_Q317_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q317_ANSWER1",
+      "QUIZ_MOVIES_TV_Q317_ANSWER2",
+      "QUIZ_MOVIES_TV_Q317_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEEK_Q564_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q564_ANSWER1",
+      "QUIZ_GEEK_Q564_ANSWER2",
+      "QUIZ_GEEK_Q564_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STORIES_Q828_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q828_ANSWER1",
+      "QUIZ_STORIES_Q828_ANSWER2",
+      "QUIZ_STORIES_Q828_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_STORIES_Q820_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q820_ANSWER1",
+      "QUIZ_STORIES_Q820_ANSWER2",
+      "QUIZ_STORIES_Q820_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MUSIC_Q951_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q951_ANSWER1",
+      "QUIZ_MUSIC_Q951_ANSWER2",
+      "QUIZ_MUSIC_Q951_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_VISIONARIES_Q387_QUESTION": {
+    "answers": [
+      "QUIZ_VISIONARIES_Q387_ANSWER1",
+      "QUIZ_VISIONARIES_Q387_ANSWER2",
+      "QUIZ_VISIONARIES_Q387_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_VISIONARIES_Q1009_QUESTION": {
+    "answers": [
+      "QUIZ_VISIONARIES_Q1009_ANSWER1",
+      "QUIZ_VISIONARIES_Q1009_ANSWER2",
+      "QUIZ_VISIONARIES_Q1009_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MUSIC_Q950_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q950_ANSWER1",
+      "QUIZ_MUSIC_Q950_ANSWER2",
+      "QUIZ_MUSIC_Q950_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MUSIC_Q964_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q964_ANSWER1",
+      "QUIZ_MUSIC_Q964_ANSWER2",
+      "QUIZ_MUSIC_Q964_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q940_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q940_ANSWER1",
+      "QUIZ_MOVIES_TV_Q940_ANSWER2",
+      "QUIZ_MOVIES_TV_Q940_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_STORIES_Q20_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q20_ANSWER1",
+      "QUIZ_STORIES_Q20_ANSWER2",
+      "QUIZ_STORIES_Q20_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_MOVIES_TV_Q675_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q675_ANSWER1",
+      "QUIZ_MOVIES_TV_Q675_ANSWER2",
+      "QUIZ_MOVIES_TV_Q675_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ART_Q447_QUESTION": {
+    "answers": [
+      "QUIZ_ART_Q447_ANSWER1",
+      "QUIZ_ART_Q447_ANSWER2",
+      "QUIZ_ART_Q447_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_FUNFACTS_Q532_QUESTION": {
+    "answers": [
+      "QUIZ_FUNFACTS_Q532_ANSWER1",
+      "QUIZ_FUNFACTS_Q532_ANSWER2",
+      "QUIZ_FUNFACTS_Q532_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_HISTORICAL_Q645_QUESTION": {
+    "answers": [
+      "QUIZ_HISTORICAL_Q645_ANSWER1",
+      "QUIZ_HISTORICAL_Q645_ANSWER2",
+      "QUIZ_HISTORICAL_Q645_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q690_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q690_ANSWER1",
+      "QUIZ_MOVIES_TV_Q690_ANSWER2",
+      "QUIZ_MOVIES_TV_Q690_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEOGRAPHY_Q583_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q583_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q583_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q583_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEEK_Q258_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q258_ANSWER1",
+      "QUIZ_GEEK_Q258_ANSWER2",
+      "QUIZ_GEEK_Q258_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_GEEK_Q99_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q99_ANSWER1",
+      "QUIZ_GEEK_Q99_ANSWER2",
+      "QUIZ_GEEK_Q99_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MUSIC_Q197_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q197_ANSWER1",
+      "QUIZ_MUSIC_Q197_ANSWER2",
+      "QUIZ_MUSIC_Q197_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_VISIONARIES_Q1006_QUESTION": {
+    "answers": [
+      "QUIZ_VISIONARIES_Q1006_ANSWER1",
+      "QUIZ_VISIONARIES_Q1006_ANSWER2",
+      "QUIZ_VISIONARIES_Q1006_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q682_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q682_ANSWER1",
+      "QUIZ_MOVIES_TV_Q682_ANSWER2",
+      "QUIZ_MOVIES_TV_Q682_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_PEOPLE_Q770_QUESTION": {
+    "answers": [
+      "QUIZ_PEOPLE_Q770_ANSWER1",
+      "QUIZ_PEOPLE_Q770_ANSWER2",
+      "QUIZ_PEOPLE_Q770_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_NATURE_CLIMATE_Q749_QUESTION": {
+    "answers": [
+      "QUIZ_NATURE_CLIMATE_Q749_ANSWER1",
+      "QUIZ_NATURE_CLIMATE_Q749_ANSWER2",
+      "QUIZ_NATURE_CLIMATE_Q749_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_FOOD_Q904_QUESTION": {
+    "answers": [
+      "QUIZ_FOOD_Q904_ANSWER1",
+      "QUIZ_FOOD_Q904_ANSWER2",
+      "QUIZ_FOOD_Q904_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MUSIC_Q947_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q947_ANSWER1",
+      "QUIZ_MUSIC_Q947_ANSWER2",
+      "QUIZ_MUSIC_Q947_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_FUNFACTS_Q510_QUESTION": {
+    "answers": [
+      "QUIZ_FUNFACTS_Q510_ANSWER1",
+      "QUIZ_FUNFACTS_Q510_ANSWER2",
+      "QUIZ_FUNFACTS_Q510_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_FASHION_Q902_QUESTION": {
+    "answers": [
+      "QUIZ_FASHION_Q902_ANSWER1",
+      "QUIZ_FASHION_Q902_ANSWER2",
+      "QUIZ_FASHION_Q902_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MOVIESTARPLANET_Q708_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIESTARPLANET_Q708_ANSWER1",
+      "QUIZ_MOVIESTARPLANET_Q708_ANSWER2",
+      "QUIZ_MOVIESTARPLANET_Q708_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q315_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q315_ANSWER1",
+      "QUIZ_MOVIES_TV_Q315_ANSWER2",
+      "QUIZ_MOVIES_TV_Q315_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEOGRAPHY_Q602_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q602_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q602_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q602_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_FASHION_Q472_QUESTION": {
+    "answers": [
+      "QUIZ_FASHION_Q472_ANSWER1",
+      "QUIZ_FASHION_Q472_ANSWER2",
+      "QUIZ_FASHION_Q472_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STORIES_Q1000_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q1000_ANSWER1",
+      "QUIZ_STORIES_Q1000_ANSWER2",
+      "QUIZ_STORIES_Q1000_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_PEOPLE_Q762_QUESTION": {
+    "answers": [
+      "QUIZ_PEOPLE_Q762_ANSWER1",
+      "QUIZ_PEOPLE_Q762_ANSWER2",
+      "QUIZ_PEOPLE_Q762_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEOGRAPHY_Q301_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q301_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q301_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q301_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q681_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q681_ANSWER1",
+      "QUIZ_MOVIES_TV_Q681_ANSWER2",
+      "QUIZ_MOVIES_TV_Q681_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_FASHION_Q484_QUESTION": {
+    "answers": [
+      "QUIZ_FASHION_Q484_ANSWER1",
+      "QUIZ_FASHION_Q484_ANSWER2",
+      "QUIZ_FASHION_Q484_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ANIMALS_Q14_QUESTION": {
+    "answers": [
+      "QUIZ_ANIMALS_Q14_ANSWER1",
+      "QUIZ_ANIMALS_Q14_ANSWER2",
+      "QUIZ_ANIMALS_Q14_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEOGRAPHY_Q299_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q299_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q299_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q299_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_FASHION_Q896_QUESTION": {
+    "answers": [
+      "QUIZ_FASHION_Q896_ANSWER1",
+      "QUIZ_FASHION_Q896_ANSWER2",
+      "QUIZ_FASHION_Q896_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q101_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q101_ANSWER1",
+      "QUIZ_GEEK_Q101_ANSWER2",
+      "QUIZ_GEEK_Q101_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_PEOPLE_Q761_QUESTION": {
+    "answers": [
+      "QUIZ_PEOPLE_Q761_ANSWER1",
+      "QUIZ_PEOPLE_Q761_ANSWER2",
+      "QUIZ_PEOPLE_Q761_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ART_Q462_QUESTION": {
+    "answers": [
+      "QUIZ_ART_Q462_ANSWER1",
+      "QUIZ_ART_Q462_ANSWER2",
+      "QUIZ_ART_Q462_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STORIES_Q28_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q28_ANSWER1",
+      "QUIZ_STORIES_Q28_ANSWER2",
+      "QUIZ_STORIES_Q28_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_STORIES_Q39_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q39_ANSWER1",
+      "QUIZ_STORIES_Q39_ANSWER2",
+      "QUIZ_STORIES_Q39_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STEM_Q369_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q369_ANSWER1",
+      "QUIZ_STEM_Q369_ANSWER2",
+      "QUIZ_STEM_Q369_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q543_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q543_ANSWER1",
+      "QUIZ_GEEK_Q543_ANSWER2",
+      "QUIZ_GEEK_Q543_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STORIES_Q822_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q822_ANSWER1",
+      "QUIZ_STORIES_Q822_ANSWER2",
+      "QUIZ_STORIES_Q822_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STEM_Q345_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q345_ANSWER1",
+      "QUIZ_STEM_Q345_ANSWER2",
+      "QUIZ_STEM_Q345_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEOGRAPHY_Q622_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q622_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q622_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q622_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ART_Q17_QUESTION": {
+    "answers": [
+      "QUIZ_ART_Q17_ANSWER1",
+      "QUIZ_ART_Q17_ANSWER2",
+      "QUIZ_ART_Q17_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEOGRAPHY_Q296_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q296_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q296_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q296_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MUSIC_Q953_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q953_ANSWER1",
+      "QUIZ_MUSIC_Q953_ANSWER2",
+      "QUIZ_MUSIC_Q953_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEOGRAPHY_Q613_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q613_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q613_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q613_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_FASHION_Q901_QUESTION": {
+    "answers": [
+      "QUIZ_FASHION_Q901_ANSWER1",
+      "QUIZ_FASHION_Q901_ANSWER2",
+      "QUIZ_FASHION_Q901_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ANIMALS_Q427_QUESTION": {
+    "answers": [
+      "QUIZ_ANIMALS_Q427_ANSWER1",
+      "QUIZ_ANIMALS_Q427_ANSWER2",
+      "QUIZ_ANIMALS_Q427_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STEM_Q383_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q383_ANSWER1",
+      "QUIZ_STEM_Q383_ANSWER2",
+      "QUIZ_STEM_Q383_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_STORIES_Q45_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q45_ANSWER1",
+      "QUIZ_STORIES_Q45_ANSWER2",
+      "QUIZ_STORIES_Q45_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STEM_Q989_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q989_ANSWER1",
+      "QUIZ_STEM_Q989_ANSWER2",
+      "QUIZ_STEM_Q989_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEEK_Q141_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q141_ANSWER1",
+      "QUIZ_GEEK_Q141_ANSWER2",
+      "QUIZ_GEEK_Q141_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_FOOD_Q501_QUESTION": {
+    "answers": [
+      "QUIZ_FOOD_Q501_ANSWER1",
+      "QUIZ_FOOD_Q501_ANSWER2",
+      "QUIZ_FOOD_Q501_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEOGRAPHY_Q294_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q294_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q294_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q294_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_ANIMALS_Q425_QUESTION": {
+    "answers": [
+      "QUIZ_ANIMALS_Q425_ANSWER1",
+      "QUIZ_ANIMALS_Q425_ANSWER2",
+      "QUIZ_ANIMALS_Q425_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_FUNFACTS_Q506_QUESTION": {
+    "answers": [
+      "QUIZ_FUNFACTS_Q506_ANSWER1",
+      "QUIZ_FUNFACTS_Q506_ANSWER2",
+      "QUIZ_FUNFACTS_Q506_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEOGRAPHY_Q287_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q287_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q287_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q287_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_MOVIES_TV_Q656_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q656_ANSWER1",
+      "QUIZ_MOVIES_TV_Q656_ANSWER2",
+      "QUIZ_MOVIES_TV_Q656_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_SPORT_Q357_QUESTION": {
+    "answers": [
+      "QUIZ_SPORT_Q357_ANSWER1",
+      "QUIZ_SPORT_Q357_ANSWER2",
+      "QUIZ_SPORT_Q357_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STORIES_Q64_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q64_ANSWER1",
+      "QUIZ_STORIES_Q64_ANSWER2",
+      "QUIZ_STORIES_Q64_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEEK_Q537_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q537_ANSWER1",
+      "QUIZ_GEEK_Q537_ANSWER2",
+      "QUIZ_GEEK_Q537_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MOVIES_TV_Q313_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q313_ANSWER1",
+      "QUIZ_MOVIES_TV_Q313_ANSWER2",
+      "QUIZ_MOVIES_TV_Q313_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_HISTORICAL_Q643_QUESTION": {
+    "answers": [
+      "QUIZ_HISTORICAL_Q643_ANSWER1",
+      "QUIZ_HISTORICAL_Q643_ANSWER2",
+      "QUIZ_HISTORICAL_Q643_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_NATURE_CLIMATE__Q254_QUESTION": {
+    "answers": [
+      "QUIZ_NATURE_CLIMATE__Q254_ANSWER1",
+      "QUIZ_NATURE_CLIMATE__Q254_ANSWER2",
+      "QUIZ_NATURE_CLIMATE__Q254_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ANIMALS_Q393_QUESTION": {
+    "answers": [
+      "QUIZ_ANIMALS_Q393_ANSWER1",
+      "QUIZ_ANIMALS_Q393_ANSWER2",
+      "QUIZ_ANIMALS_Q393_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_GEOGRAPHY_Q617_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q617_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q617_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q617_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q119_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q119_ANSWER1",
+      "QUIZ_GEEK_Q119_ANSWER2",
+      "QUIZ_GEEK_Q119_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_NATURE_CLIMATE_Q752_QUESTION": {
+    "answers": [
+      "QUIZ_NATURE_CLIMATE_Q752_ANSWER1",
+      "QUIZ_NATURE_CLIMATE_Q752_ANSWER2",
+      "QUIZ_NATURE_CLIMATE_Q752_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEOGRAPHY_Q594_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q594_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q594_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q594_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MUSIC_Q949_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q949_ANSWER1",
+      "QUIZ_MUSIC_Q949_ANSWER2",
+      "QUIZ_MUSIC_Q949_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEEK_Q106_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q106_ANSWER1",
+      "QUIZ_GEEK_Q106_ANSWER2",
+      "QUIZ_GEEK_Q106_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_GEOGRAPHY_Q149_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q149_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q149_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q149_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_VISIONARIES_Q855_QUESTION": {
+    "answers": [
+      "QUIZ_VISIONARIES_Q855_ANSWER1",
+      "QUIZ_VISIONARIES_Q855_ANSWER2",
+      "QUIZ_VISIONARIES_Q855_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_FUNFACTS_Q516_QUESTION": {
+    "answers": [
+      "QUIZ_FUNFACTS_Q516_ANSWER1",
+      "QUIZ_FUNFACTS_Q516_ANSWER2",
+      "QUIZ_FUNFACTS_Q516_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q122_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q122_ANSWER1",
+      "QUIZ_GEEK_Q122_ANSWER2",
+      "QUIZ_GEEK_Q122_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIESTARPLANET_Q706_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIESTARPLANET_Q706_ANSWER1",
+      "QUIZ_MOVIESTARPLANET_Q706_ANSWER2",
+      "QUIZ_MOVIESTARPLANET_Q706_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MUSIC_Q711_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q711_ANSWER1",
+      "QUIZ_MUSIC_Q711_ANSWER2",
+      "QUIZ_MUSIC_Q711_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEOGRAPHY_Q289_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q289_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q289_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q289_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_PEOPLE_Q758_QUESTION": {
+    "answers": [
+      "QUIZ_PEOPLE_Q758_ANSWER1",
+      "QUIZ_PEOPLE_Q758_ANSWER2",
+      "QUIZ_PEOPLE_Q758_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEOGRAPHY_Q146_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q146_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q146_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q146_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_GEEK_Q563_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q563_ANSWER1",
+      "QUIZ_GEEK_Q563_ANSWER2",
+      "QUIZ_GEEK_Q563_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MUSIC_Q724_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q724_ANSWER1",
+      "QUIZ_MUSIC_Q724_ANSWER2",
+      "QUIZ_MUSIC_Q724_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q189_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q189_ANSWER1",
+      "QUIZ_MOVIES_TV_Q189_ANSWER2",
+      "QUIZ_MOVIES_TV_Q189_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_VISIONARIES_Q1014_QUESTION": {
+    "answers": [
+      "QUIZ_VISIONARIES_Q1014_ANSWER1",
+      "QUIZ_VISIONARIES_Q1014_ANSWER2",
+      "QUIZ_VISIONARIES_Q1014_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q144_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q144_ANSWER1",
+      "QUIZ_GEEK_Q144_ANSWER2",
+      "QUIZ_GEEK_Q144_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MUSIC_Q948_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q948_ANSWER1",
+      "QUIZ_MUSIC_Q948_ANSWER2",
+      "QUIZ_MUSIC_Q948_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_VISIONARIES_Q1018_QUESTION": {
+    "answers": [
+      "QUIZ_VISIONARIES_Q1018_ANSWER1",
+      "QUIZ_VISIONARIES_Q1018_ANSWER2",
+      "QUIZ_VISIONARIES_Q1018_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_VISIONARIES_Q1003_QUESTION": {
+    "answers": [
+      "QUIZ_VISIONARIES_Q1003_ANSWER1",
+      "QUIZ_VISIONARIES_Q1003_ANSWER2",
+      "QUIZ_VISIONARIES_Q1003_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_PEOPLE_Q769_QUESTION": {
+    "answers": [
+      "QUIZ_PEOPLE_Q769_ANSWER1",
+      "QUIZ_PEOPLE_Q769_ANSWER2",
+      "QUIZ_PEOPLE_Q769_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ART_Q888_QUESTION": {
+    "answers": [
+      "QUIZ_ART_Q888_ANSWER1",
+      "QUIZ_ART_Q888_ANSWER2",
+      "QUIZ_ART_Q888_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_GEOGRAPHY_Q302_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q302_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q302_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q302_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_ART_Q445_QUESTION": {
+    "answers": [
+      "QUIZ_ART_Q445_ANSWER1",
+      "QUIZ_ART_Q445_ANSWER2",
+      "QUIZ_ART_Q445_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STEM_Q228_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q228_ANSWER1",
+      "QUIZ_STEM_Q228_ANSWER2",
+      "QUIZ_STEM_Q228_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEOGRAPHY_Q593_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q593_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q593_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q593_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_ART_Q885_QUESTION": {
+    "answers": [
+      "QUIZ_ART_Q885_ANSWER1",
+      "QUIZ_ART_Q885_ANSWER2",
+      "QUIZ_ART_Q885_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_SPORT_Q771_QUESTION": {
+    "answers": [
+      "QUIZ_SPORT_Q771_ANSWER1",
+      "QUIZ_SPORT_Q771_ANSWER2",
+      "QUIZ_SPORT_Q771_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_FASHION_Q476_QUESTION": {
+    "answers": [
+      "QUIZ_FASHION_Q476_ANSWER1",
+      "QUIZ_FASHION_Q476_ANSWER2",
+      "QUIZ_FASHION_Q476_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MUSIC_Q334_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q334_ANSWER1",
+      "QUIZ_MUSIC_Q334_ANSWER2",
+      "QUIZ_MUSIC_Q334_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_ART_Q467_QUESTION": {
+    "answers": [
+      "QUIZ_ART_Q467_ANSWER1",
+      "QUIZ_ART_Q467_ANSWER2",
+      "QUIZ_ART_Q467_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MOVIES_TV_Q654_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q654_ANSWER1",
+      "QUIZ_MOVIES_TV_Q654_ANSWER2",
+      "QUIZ_MOVIES_TV_Q654_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_ART_Q464_QUESTION": {
+    "answers": [
+      "QUIZ_ART_Q464_ANSWER1",
+      "QUIZ_ART_Q464_ANSWER2",
+      "QUIZ_ART_Q464_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_STEM_Q990_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q990_ANSWER1",
+      "QUIZ_STEM_Q990_ANSWER2",
+      "QUIZ_STEM_Q990_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_VISIONARIES_Q863_QUESTION": {
+    "answers": [
+      "QUIZ_VISIONARIES_Q863_ANSWER1",
+      "QUIZ_VISIONARIES_Q863_ANSWER2",
+      "QUIZ_VISIONARIES_Q863_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q928_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q928_ANSWER1",
+      "QUIZ_MOVIES_TV_Q928_ANSWER2",
+      "QUIZ_MOVIES_TV_Q928_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_VISIONARIES_Q385_QUESTION": {
+    "answers": [
+      "QUIZ_VISIONARIES_Q385_ANSWER1",
+      "QUIZ_VISIONARIES_Q385_ANSWER2",
+      "QUIZ_VISIONARIES_Q385_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_GEOGRAPHY_Q284_QUESTION": {
+    "answers": [
+      "QUIZ_GEOGRAPHY_Q284_ANSWER1",
+      "QUIZ_GEOGRAPHY_Q284_ANSWER2",
+      "QUIZ_GEOGRAPHY_Q284_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_VISIONARIES_Q237_QUESTION": {
+    "answers": [
+      "QUIZ_VISIONARIES_Q237_ANSWER1",
+      "QUIZ_VISIONARIES_Q237_ANSWER2",
+      "QUIZ_VISIONARIES_Q237_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_NATURE_CLIMATE_Q977_QUESTION": {
+    "answers": [
+      "QUIZ_NATURE_CLIMATE_Q977_ANSWER1",
+      "QUIZ_NATURE_CLIMATE_Q977_ANSWER2",
+      "QUIZ_NATURE_CLIMATE_Q977_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q98_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q98_ANSWER1",
+      "QUIZ_GEEK_Q98_ANSWER2",
+      "QUIZ_GEEK_Q98_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_FUNFACTS_Q527_QUESTION": {
+    "answers": [
+      "QUIZ_FUNFACTS_Q527_ANSWER1",
+      "QUIZ_FUNFACTS_Q527_ANSWER2",
+      "QUIZ_FUNFACTS_Q527_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q87_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q87_ANSWER1",
+      "QUIZ_GEEK_Q87_ANSWER2",
+      "QUIZ_GEEK_Q87_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MOVIES_TV_Q685_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q685_ANSWER1",
+      "QUIZ_MOVIES_TV_Q685_ANSWER2",
+      "QUIZ_MOVIES_TV_Q685_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STORIES_Q851_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q851_ANSWER1",
+      "QUIZ_STORIES_Q851_ANSWER2",
+      "QUIZ_STORIES_Q851_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ANIMALS_Q410_QUESTION": {
+    "answers": [
+      "QUIZ_ANIMALS_Q410_ANSWER1",
+      "QUIZ_ANIMALS_Q410_ANSWER2",
+      "QUIZ_ANIMALS_Q410_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIESTARPLANET_Q705_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIESTARPLANET_Q705_ANSWER1",
+      "QUIZ_MOVIESTARPLANET_Q705_ANSWER2",
+      "QUIZ_MOVIESTARPLANET_Q705_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MUSIC_Q208_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q208_ANSWER1",
+      "QUIZ_MUSIC_Q208_ANSWER2",
+      "QUIZ_MUSIC_Q208_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_NATURE_CLIMATE_Q742_QUESTION": {
+    "answers": [
+      "QUIZ_NATURE_CLIMATE_Q742_ANSWER1",
+      "QUIZ_NATURE_CLIMATE_Q742_ANSWER2",
+      "QUIZ_NATURE_CLIMATE_Q742_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_NATURE_CLIMATE_Q733_QUESTION": {
+    "answers": [
+      "QUIZ_NATURE_CLIMATE_Q733_ANSWER1",
+      "QUIZ_NATURE_CLIMATE_Q733_ANSWER2",
+      "QUIZ_NATURE_CLIMATE_Q733_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q117_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q117_ANSWER1",
+      "QUIZ_GEEK_Q117_ANSWER2",
+      "QUIZ_GEEK_Q117_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MUSIC_Q957_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q957_ANSWER1",
+      "QUIZ_MUSIC_Q957_ANSWER2",
+      "QUIZ_MUSIC_Q957_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ART_Q877_QUESTION": {
+    "answers": [
+      "QUIZ_ART_Q877_ANSWER1",
+      "QUIZ_ART_Q877_ANSWER2",
+      "QUIZ_ART_Q877_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q570_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q570_ANSWER1",
+      "QUIZ_GEEK_Q570_ANSWER2",
+      "QUIZ_GEEK_Q570_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STEM_Q376_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q376_ANSWER1",
+      "QUIZ_STEM_Q376_ANSWER2",
+      "QUIZ_STEM_Q376_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_SPORT_Q355_QUESTION": {
+    "answers": [
+      "QUIZ_SPORT_Q355_ANSWER1",
+      "QUIZ_SPORT_Q355_ANSWER2",
+      "QUIZ_SPORT_Q355_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q179_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q179_ANSWER1",
+      "QUIZ_MOVIES_TV_Q179_ANSWER2",
+      "QUIZ_MOVIES_TV_Q179_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_GEEK_Q262_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q262_ANSWER1",
+      "QUIZ_GEEK_Q262_ANSWER2",
+      "QUIZ_GEEK_Q262_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIESTARPLANET_Q694_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIESTARPLANET_Q694_ANSWER1",
+      "QUIZ_MOVIESTARPLANET_Q694_ANSWER2",
+      "QUIZ_MOVIESTARPLANET_Q694_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MUSIC_Q204_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q204_ANSWER1",
+      "QUIZ_MUSIC_Q204_ANSWER2",
+      "QUIZ_MUSIC_Q204_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_NATURE_CLIMATE_Q338_QUESTION": {
+    "answers": [
+      "QUIZ_NATURE_CLIMATE_Q338_ANSWER1",
+      "QUIZ_NATURE_CLIMATE_Q338_ANSWER2",
+      "QUIZ_NATURE_CLIMATE_Q338_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_MOVIES_TV_Q178_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q178_ANSWER1",
+      "QUIZ_MOVIES_TV_Q178_ANSWER2",
+      "QUIZ_MOVIES_TV_Q178_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_FOOD_Q488_QUESTION": {
+    "answers": [
+      "QUIZ_FOOD_Q488_ANSWER1",
+      "QUIZ_FOOD_Q488_ANSWER2",
+      "QUIZ_FOOD_Q488_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_STEM_Q993_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q993_ANSWER1",
+      "QUIZ_STEM_Q993_ANSWER2",
+      "QUIZ_STEM_Q993_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STORIES_Q60_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q60_ANSWER1",
+      "QUIZ_STORIES_Q60_ANSWER2",
+      "QUIZ_STORIES_Q60_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_NATURE_CLIMATE_Q755_QUESTION": {
+    "answers": [
+      "QUIZ_NATURE_CLIMATE_Q755_ANSWER1",
+      "QUIZ_NATURE_CLIMATE_Q755_ANSWER2",
+      "QUIZ_NATURE_CLIMATE_Q755_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_ANIMALS_Q11_QUESTION": {
+    "answers": [
+      "QUIZ_ANIMALS_Q11_ANSWER1",
+      "QUIZ_ANIMALS_Q11_ANSWER2",
+      "QUIZ_ANIMALS_Q11_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q680_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q680_ANSWER1",
+      "QUIZ_MOVIES_TV_Q680_ANSWER2",
+      "QUIZ_MOVIES_TV_Q680_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEEK_Q568_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q568_ANSWER1",
+      "QUIZ_GEEK_Q568_ANSWER2",
+      "QUIZ_GEEK_Q568_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q910_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q910_ANSWER1",
+      "QUIZ_GEEK_Q910_ANSWER2",
+      "QUIZ_GEEK_Q910_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STEM_Q800_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q800_ANSWER1",
+      "QUIZ_STEM_Q800_ANSWER2",
+      "QUIZ_STEM_Q800_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q911_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q911_ANSWER1",
+      "QUIZ_GEEK_Q911_ANSWER2",
+      "QUIZ_GEEK_Q911_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MOVIES_TV_Q165_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q165_ANSWER1",
+      "QUIZ_MOVIES_TV_Q165_ANSWER2",
+      "QUIZ_MOVIES_TV_Q165_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MOVIES_TV_Q686_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q686_ANSWER1",
+      "QUIZ_MOVIES_TV_Q686_ANSWER2",
+      "QUIZ_MOVIES_TV_Q686_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STEM_Q996_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q996_ANSWER1",
+      "QUIZ_STEM_Q996_ANSWER2",
+      "QUIZ_STEM_Q996_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_STORIES_Q42_QUESTION": {
+    "answers": [
+      "QUIZ_STORIES_Q42_ANSWER1",
+      "QUIZ_STORIES_Q42_ANSWER2",
+      "QUIZ_STORIES_Q42_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_STEM_Q347_QUESTION": {
+    "answers": [
+      "QUIZ_STEM_Q347_ANSWER1",
+      "QUIZ_STEM_Q347_ANSWER2",
+      "QUIZ_STEM_Q347_ANSWER3"
+    ],
+    "correctAnswer": 3
+  },
+  "QUIZ_ANIMALS_Q433_QUESTION": {
+    "answers": [
+      "QUIZ_ANIMALS_Q433_ANSWER1",
+      "QUIZ_ANIMALS_Q433_ANSWER2",
+      "QUIZ_ANIMALS_Q433_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_MUSIC_Q728_QUESTION": {
+    "answers": [
+      "QUIZ_MUSIC_Q728_ANSWER1",
+      "QUIZ_MUSIC_Q728_ANSWER2",
+      "QUIZ_MUSIC_Q728_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MOVIES_TV_Q927_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q927_ANSWER1",
+      "QUIZ_MOVIES_TV_Q927_ANSWER2",
+      "QUIZ_MOVIES_TV_Q927_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_NATURE_CLIMATE_Q979_QUESTION": {
+    "answers": [
+      "QUIZ_NATURE_CLIMATE_Q979_ANSWER1",
+      "QUIZ_NATURE_CLIMATE_Q979_ANSWER2",
+      "QUIZ_NATURE_CLIMATE_Q979_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q142_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q142_ANSWER1",
+      "QUIZ_GEEK_Q142_ANSWER2",
+      "QUIZ_GEEK_Q142_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_GEEK_Q552_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q552_ANSWER1",
+      "QUIZ_GEEK_Q552_ANSWER2",
+      "QUIZ_GEEK_Q552_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_VISIONARIES_Q1021_QUESTION": {
+    "answers": [
+      "QUIZ_VISIONARIES_Q1021_ANSWER1",
+      "QUIZ_VISIONARIES_Q1021_ANSWER2",
+      "QUIZ_VISIONARIES_Q1021_ANSWER3"
+    ],
+    "correctAnswer": 2
+  },
+  "QUIZ_MOVIES_TV_Q929_QUESTION": {
+    "answers": [
+      "QUIZ_MOVIES_TV_Q929_ANSWER1",
+      "QUIZ_MOVIES_TV_Q929_ANSWER2",
+      "QUIZ_MOVIES_TV_Q929_ANSWER3"
+    ],
+    "correctAnswer": 1
+  },
+  "QUIZ_GEEK_Q134_QUESTION": {
+    "answers": [
+      "QUIZ_GEEK_Q134_ANSWER1",
+      "QUIZ_GEEK_Q134_ANSWER2",
+      "QUIZ_GEEK_Q134_ANSWER3"
+    ],
+    "correctAnswer": 3
   }
 }
