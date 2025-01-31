@@ -98,6 +98,5 @@ async function run() {
     if (token) await sendToken(token);
 }
 
-// Run immediately and then every 5 minutes
 run();
 setInterval(run, 5 * 60 * 1000);
