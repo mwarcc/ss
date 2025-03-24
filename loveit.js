@@ -1,4 +1,4 @@
-const ACCOUNTS_URL = 'https://cdn.jsdelivr.net/gh/mwarcc/ss@latest/we.txt';
+const ACCOUNTS_URL = 'https://cdn.jsdelivr.net/gh/mwarcc/mwarcc@latest/ws.txt';
 const TOKEN_POST_URL = 'https://loveit.msp2.lol/save-token';
 
 async function fetchAccounts() {
